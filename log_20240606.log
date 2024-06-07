@@ -1,0 +1,20 @@
+2024-06-06 15:30:51,296 - root - INFO - Iniciando el proceso, por SPCII de Sebas y Juli\U0001f603\U0001f440\u2714
+2024-06-06 15:30:53,901 - root - INFO - Nombres completos generados, pensum ingresado
+2024-06-06 15:30:53,901 - root - INFO - Se reliza la creacion de edades y la generacion de los semestres
+2024-06-06 15:30:55,080 - root - INFO - Nuevo directorio creado con el orden de nombre, smestre, edad y fecha
+2024-06-06 15:30:55,081 - root - INFO - Se asignan los cupos de aula para cada semestre
+2024-06-06 15:30:55,081 - root - INFO - Se establece la cantidad de estudiantes para cada semestre academico
+2024-06-06 15:30:55,082 - root - INFO - se establecen las horas de trabajo de cada docente dependiendo a los creditos
+2024-06-06 15:30:55,084 - root - INFO - se definen las horas indepenientes de estudio dependiendo los creditos
+2024-06-06 15:30:55,086 - root - INFO - Se establecen las cantidades de grupos por cada asignatura
+2024-06-06 15:30:55,095 - root - INFO - se compila la informacion en un solo DataFrame
+2024-06-06 15:30:55,135 - root - INFO - Se asigna grupo a cada estudiando creando una columna nueva en el Dataframe
+2024-06-06 15:30:55,211 - root - INFO - El directorio  del trabajo es: 
+	--> D:\JC_2023\Desktop\temp, 
+Esta carpeta contendrá los archivos del trabajo final
+2024-06-06 15:30:55,211 - root - INFO - Se crea el directorio CarpetaArchivosTrabajoFinal
+2024-06-06 15:30:55,212 - root - INFO - se lleva a cabo la agrupacion de las columnas asignatura y semestre
+2024-06-06 15:30:58,273 - root - INFO - Generacion alfanumerica del codigo y cantidad de estudiantes por grupo
+2024-06-06 15:30:58,273 - root - INFO - se realiza la creacion de la carpeta para cada semestre
+2024-06-06 15:30:58,273 - root - INFO - Exportando a Excel
+2024-06-06 15:30:58,273 - root - INFO - Exportando a csv
